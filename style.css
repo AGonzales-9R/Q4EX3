@@ -1,0 +1,36 @@
+* {
+
+}
+
+body {
+	text-align: center;
+	background-color: #ec9598;
+}
+
+label {
+	font-size: 20px;
+}
+
+a {
+	color: #ec9598;
+}
+
+footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	padding: 5px;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+.container {
+	background-color: white;
+	border-style: solid;
+}
+
+.btn {
+	background-color: #ec9598;
+}
